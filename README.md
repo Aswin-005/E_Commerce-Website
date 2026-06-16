@@ -89,12 +89,6 @@ E_Commerce-Website/
 
 ---
 
-## 📸 Screenshots
-
-*(Add your UI screenshots here — don’t skip this unless you enjoy being ignored by recruiters)*
-
----
-
 ## 📌 Future Improvements
 
 * 💳 Payment Gateway Integration
